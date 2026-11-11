@@ -21,7 +21,7 @@ Samsung Music Port for all Non-Samsung ROM
 > It's your ROM equalizer, this app has no built in equalizer
 
 - **Why it required Phone permission???**
-> You downloaded Melon version, which automatically connected to their own service. If you unconfortable with that permission, install *Spotify* version instead. Also check [Melon Stream](https://play.google.com/store/apps/details?id=com.iloen.melon) app description for more information about that permission.
+> You downloaded Melon version, which automatically connected to their own service. If you uncomfortable with that permission, install *Spotify* version instead. Also check [Melon Stream](https://play.google.com/store/apps/details?id=com.iloen.melon) app description for more information about that permission.
 > <img width="849" height="74" alt="439771335-a4153a99-cddd-47ac-91d3-2d04d9d35162" src="https://github.com/user-attachments/assets/ca985b7f-32cc-4088-8ff4-838cf1506c3f" />
 
 - Is it your original work?
